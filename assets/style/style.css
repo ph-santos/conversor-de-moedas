@@ -5,3 +5,34 @@
 :root {
     --default-font: 'Roboto', sans-serif;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--default-font);
+}
+
+body {
+    background: #E5E5E5;
+}
+
+.container {
+    max-width: 375px;
+    margin-top: 100px;
+    margin-inline: auto;
+    background: #F4F4F4;
+}
+
+header {
+    background: #1B83E2;
+    height: 66px;
+}
+
+header h1 {
+    color: #F4F4F4;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 18px;
+    padding: 24px 50px;
+}
