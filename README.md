@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://ph-santos.github.io/conversor-de-moedas/
+### Link do projeto: https://ph-santos.github.io/conversor-de-moedas/
 
 CodeClub Convert Money é uma aplicação construída durante o curso **CodeClub**.
 
