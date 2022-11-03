@@ -17,7 +17,7 @@ A aplicação consiste em um conversor de moedas, que inicialmente converte apen
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS
 
 # Autor
 
