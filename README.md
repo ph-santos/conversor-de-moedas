@@ -7,7 +7,7 @@
 
 CodeClub Convert Money é uma aplicação construída durante o curso **CodeClub**.
 
-A aplicação consiste em um conversor de moedas, que inicialmente converte apenas para tres moedas com os valores fixos o Dolar (US$ 5.20), Euro (5.23 €) e Bitcoin (105208.14).
+A aplicação consiste em um conversor de moedas, que inicialmente converte apenas para tres moedas com os valores fixos o Dólar (US$ 5.20), Euro (5.23 €) e Bitcoin (105208.14).
 
 ## Layout mobile
 ![Mobile 1](https://github.com/ph-santos/conversor-de-moedas/blob/main/assets/images/moba.png)
